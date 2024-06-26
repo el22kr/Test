@@ -57,6 +57,7 @@ class Program
     Console.WriteLine($"Температура: {temp}°C");
     Console.WriteLine($"Влажность: {humidity}%");  
     Console.WriteLine($"Описание: {description}");
+    Console.WriteLine("Hello, Sun!")
 }
 
 }
