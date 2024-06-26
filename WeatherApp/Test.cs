@@ -1,9 +1,10 @@
 using System;
+using System.Threading.Tasks;
 
 class Test
 {
-    static void Main()
+    static async Task Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        await Program.Main(args);
     }
 }
