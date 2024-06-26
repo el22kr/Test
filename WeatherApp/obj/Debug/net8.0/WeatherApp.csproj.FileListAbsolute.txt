@@ -1,0 +1,17 @@
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/WeatherApp
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/WeatherApp.deps.json
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/WeatherApp.runtimeconfig.json
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/WeatherApp.dll
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/WeatherApp.pdb
+/Users/slavarezko/Desktop/WeatherApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.AssemblyInfo.cs
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.csproj.Up2Date
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.dll
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/refint/WeatherApp.dll
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.pdb
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/WeatherApp.genruntimeconfig.cache
+/Users/slavarezko/Desktop/WeatherApp/obj/Debug/net8.0/ref/WeatherApp.dll
